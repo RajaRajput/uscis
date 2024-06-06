@@ -1,24 +1,26 @@
-{
-  "Filter": "A",
-  "Title": "Processing Times for I-765 Standalone Application",
-  "last_updated": "2024-06-06",
-  "table_headers": ["Service Center", "Processing Time"],
-  "processing_times": [
-    ["California Service Center (WAC)", "3.5 months"],
-    ["Nebraska Service Center (LIN)", "5 months"],
-    ["Texas Service Center (SRC)", "6 months"],
-    ["Vermont Service Center (EAC)", "7.5 months"]
-  ]
-},
-{
-  "Filter": "B",
-  "Title": "Processing Times for I-539 Application",
-  "last_updated": "2024-06-05",
-  "table_headers": ["Service Center", "Processing Time"],
-  "processing_times": [
-    ["California Service Center (WAC)", "3 months"],
-    ["Nebraska Service Center (LIN)", "5.5 months"],
-    ["Texas Service Center (SRC)", "6.5 months"],
-    ["Vermont Service Center (EAC)", "7 months"]
-  ]
-}
+[
+  {
+    "Filter": "A",
+    "Title": "Processing Times for I-765 Standalone Application",
+    "last_updated": "2024-06-06",
+    "table_headers": ["Service Center", "Processing Time"],
+    "processing_times": [
+      ["California Service Center (WAC)", "3.5 months"],
+      ["Nebraska Service Center (LIN)", "5 months"],
+      ["Texas Service Center (SRC)", "6 months"],
+      ["Vermont Service Center (EAC)", "7.5 months"]
+    ]
+  },
+  {
+    "Filter": "B",
+    "Title": "Processing Times for I-539 Application",
+    "last_updated": "2024-06-05",
+    "table_headers": ["Service Center", "Processing Time"],
+    "processing_times": [
+      ["California Service Center (WAC)", "3 months"],
+      ["Nebraska Service Center (LIN)", "5.5 months"],
+      ["Texas Service Center (SRC)", "6.5 months"],
+      ["Vermont Service Center (EAC)", "7 months"]
+    ]
+  }
+]
