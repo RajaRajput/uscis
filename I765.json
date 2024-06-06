@@ -13,6 +13,10 @@
 	{
       "service_center": "Texas Service Center (SRC)",
       "processing_time_months": "6 months"
+    },
+	{
+      "service_center": "Vermont Service Center (EAC)",
+      "processing_time_months": "7.5 months"
     }
   ]
 }
