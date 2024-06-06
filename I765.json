@@ -1,0 +1,14 @@
+{
+  "Title": "Processing Times for I-765 Standalone Application",
+  "last_updated": "2024-06-01",
+  "processing_times": [
+    {
+      "service_center": "California Service Center (WAC)",
+      "processing_time_months": "3.5 months"
+    },
+    {
+      "service_center": "Nebraska Service Center (LIN)",
+      "processing_time_months": "5 months"
+    }
+  ]
+}
