@@ -1,30 +1,6 @@
 [
   {
     "Filter": "A",
-    "Title": "Processing Times for I-765 Standalone Application",
-    "last_updated": "2024-06-06",
-    "table_headers": ["Service Center", "Processing Time"],
-    "processing_times": [
-      ["California Service Center (WAC)", "3.5 months"],
-      ["Nebraska Service Center (LIN)", "5 months"],
-      ["Texas Service Center (SRC)", "6 months"],
-      ["Vermont Service Center (EAC)", "7.5 months"]
-    ]
-  },
-  {
-    "Filter": "B",
-    "Title": "Processing Times for I-539 Application",
-    "last_updated": "2024-06-05",
-    "table_headers": ["Service Center", "Processing Time"],
-    "processing_times": [
-      ["California Service Center (WAC)", "3 months"],
-      ["Nebraska Service Center (LIN)", "5.5 months"],
-      ["Texas Service Center (SRC)", "6.5 months"],
-      ["Vermont Service Center (EAC)", "7 months"]
-    ]
-  },
-  {
-    "Filter": "C",
     "Title": "J2 EAD: Processing Times for I-765 Application",
     "last_updated": "Jun 06, 2024",
     "table_headers": ["Service Center", "Processing Time"],
@@ -35,6 +11,81 @@
       ["Vermont Service Center (EAC)", "13.5 months"],
       ["National Benefit Center (NBC)", "5.5 months"],
       ["Potomac Service Center (YSC)", "6 months"]
+    ]
+  },
+  {
+    "Filter": "B",
+    "Title": "Change of Status to H4 and EAD: I-765 Application filed with I-539 Application",
+    "last_updated": "Jun 06, 2024",
+    "table_headers": ["Service Center", "Processing Time"],
+    "processing_times": [
+      ["California Service Center (WAC)", "3.5 months"],
+      ["Nebraska Service Center (LIN)", "3.5 months"],
+      ["Texas Service Center (SRC)", "5 months"],
+      ["Vermont Service Center (EAC)", "5.5 months"]
+    ]
+  },
+  {
+	"Filter": "C",
+    "Title": "H4 EAD: I-765 Standalone Application",
+    "last_updated": "Jun 06, 2024",
+    "table_headers": ["Service Center", "Processing Time"],
+    "processing_times": [
+      ["California Service Center (WAC)", "5 months"],
+      ["Nebraska Service Center (LIN)", "6 months"],
+      ["Texas Service Center (SRC)", "9.5 months"],
+      ["Vermont Service Center (EAC)", "8.5 months"]
+    ]
+  },
+  {
+    "Filter": "D",
+    "Title": "Change of Status to B1/B2: Processing Times for I-539 Application",
+    "last_updated": "Jun 06, 2024",
+    "table_headers": ["Service Center", "Processing Time"],
+    "processing_times": [
+      ["California Service Center (WAC)", "5 months"],
+      ["Nebraska Service Center (LIN)", "3.5 months"],
+      ["Potomac Service Center (YSC)", "4 months"],
+      ["Texas Service Center (SRC)", "4 months"],
+      ["Vermont Service Center (EAC)", "6 months"]
+    ]
+  },
+  {
+    "Filter": "E",
+    "Title": "Extension of Stay for B1/B2: Processing Times for I-539 Application",
+    "last_updated": "Jun 06, 2024",
+    "table_headers": ["Service Center", "Processing Time"],
+    "processing_times": [
+      ["California Service Center (WAC)", "5 months"],
+      ["Nebraska Service Center (LIN)", "4 months"],
+      ["Potomac Service Center (YSC)", "4 months"],
+      ["Texas Service Center (SRC)", "3.5 months"],
+      ["Vermont Service Center (EAC)", "6 months"]
+    ]
+  },
+  {
+    "Filter": "F",
+    "Title": "Change of Status to H4: Processing Times for I-539 Application",
+    "last_updated": "Jun 06, 2024",
+    "table_headers": ["Service Center", "Processing Time"],
+    "processing_times": [
+      ["California Service Center (WAC)", "3.5 months"],
+      ["Nebraska Service Center (LIN)", "5.5 months"]
+      ["Texas Service Center (SRC)", "7 months"],
+      ["Vermont Service Center (EAC)", "7.5 months"]
+    ]
+  },
+  {
+    "Filter": "G",
+    "Title": "Extension of Status for H4: Processing Times for I-539 Application",
+    "last_updated": "Jun 06, 2024",
+    "table_headers": ["Service Center", "Processing Time"],
+    "processing_times": [
+      ["California Service Center (WAC)", "3.5 months"],
+      ["Nebraska Service Center (LIN)", "4 months"],
+      ["Potomac Service Center (YSC)", "4 months"],
+      ["Texas Service Center (SRC)", "6.5 months"],
+      ["Vermont Service Center (EAC)", "7 months"]
     ]
   }
 ]
