@@ -70,7 +70,7 @@
     "table_headers": ["Service Center", "Processing Time"],
     "processing_times": [
       ["California Service Center (WAC)", "3.5 months"],
-      ["Nebraska Service Center (LIN)", "5.5 months"]
+      ["Nebraska Service Center (LIN)", "5.5 months"],
       ["Texas Service Center (SRC)", "7 months"],
       ["Vermont Service Center (EAC)", "7.5 months"]
     ]
