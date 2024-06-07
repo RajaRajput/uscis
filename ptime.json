@@ -26,7 +26,7 @@
   {
     "Filter": "C",
     "Title": "J2 EAD: Processing Times for I-765 Application",
-    "last_updated": "2024-06-06",
+    "last_updated": "Jun 06, 2024",
     "table_headers": ["Service Center", "Processing Time"],
     "processing_times": [
       ["California Service Center (WAC)", "14.5 months"],
